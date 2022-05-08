@@ -1,6 +1,6 @@
 import http.client
 import json
-SERVER = 'localhost:8080'
+SERVER = 'javaroller.herokuapp.com'
 HEAD = {'Content-type': 'application/json'}
 
 
